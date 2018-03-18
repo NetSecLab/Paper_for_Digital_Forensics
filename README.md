@@ -8,9 +8,9 @@ Digital forensics (sometimes known as digital forensic science) is a branch of f
 ---
 
 This is a collection of papers, codes, issues for digital forensics.
-* [Source Camera Identification](https://github.com/NetSecLab/Paper_for_Digital_Forensics/Source_Camera_Identification)
+* [Source Camera Identification](https://github.com/NetSecLab/Paper_for_Digital_Forensics/blob/master/Source_Camera_Identification)
 
 ---
 # License
 
-This library is under the Apache2.0 license. For the full copyright and license information, please view the [LICENSE](https://github.com/NetSecLab/Paper_for_Digital_Forensics/LICENSE) file that was distributed with this source code.
+This library is under the Apache2.0 license. For the full copyright and license information, please view the [LICENSE](LICENSE) file that was distributed with this source code.
