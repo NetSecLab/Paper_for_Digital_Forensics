@@ -4,8 +4,6 @@
 
 An overview: Piva, Alessandro. "An overview on image forensics." ISRN Signal Processing 2013 (2013). [pdf](http://downloads.hindawi.com/journals/isrn.signal.processing/2013/496701.pdf)
 
-<hr>
-
 ## Statistical model-based algorithm
 
 1. Chen, Chen, and Matthew C. Stamm. "Camera model identification framework using an ensemble of demosaicing features." Information Forensics and Security (WIFS), 2015 IEEE International Workshop on. IEEE, 2015. [pdf](http://ieeexplore.ieee.org/abstract/document/7368573/)
